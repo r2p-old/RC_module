@@ -8768,7 +8768,7 @@ http://dangerousprototypes.com</description>
 <part name="P+12" library="supply" deviceset="+V" device=""/>
 <part name="P+13" library="supply" deviceset="+V" device=""/>
 <part name="P+14" library="supply" deviceset="+V" device=""/>
-<part name="RN1" library="dp_devices" deviceset="RESISTOR_ARRAY_4" device=""/>
+<part name="RN1" library="dp_devices" deviceset="RESISTOR_ARRAY_4" device="" value="330"/>
 <part name="RN2" library="dp_devices" deviceset="RESISTOR_ARRAY_4" device=""/>
 <part name="RN3" library="dp_devices" deviceset="RESISTOR_ARRAY_4" device=""/>
 <part name="X1" library="con-molex" deviceset="22-23-2021" device=""/>
@@ -8783,7 +8783,7 @@ http://dangerousprototypes.com</description>
 <part name="GND37" library="supply1" deviceset="GND" device=""/>
 <part name="P+4" library="supply" deviceset="+V" device=""/>
 <part name="P+5" library="supply" deviceset="+V" device=""/>
-<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
+<part name="R2" library="rcl" deviceset="R-EU_" device="R0603" value="330"/>
 <part name="R4" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="R5" library="rcl" deviceset="R-EU_" device="R0603" value="10k"/>
 <part name="ZD1" library="dp_devices" deviceset="ZENER" device="SOD-323F"/>

@@ -1982,7 +1982,7 @@ design rules under a new name.</description>
 <element name="JP11" library="connectors" package="1X03" value="PINHD-3" x="16.31" y="29.95"/>
 <element name="JP12" library="connectors" package="1X03" value="PINHD-3" x="16.31" y="27.41"/>
 <element name="JP13" library="connectors" package="1X03" value="PINHD-3" x="16.31" y="24.87"/>
-<element name="RN1" library="dp_devices" package="RN8P-4R-CRA06S" value="" x="2.6" y="28.3"/>
+<element name="RN1" library="dp_devices" package="RN8P-4R-CRA06S" value="330" x="2.6" y="28.3"/>
 <element name="RN2" library="dp_devices" package="RN8P-4R-CRA06S" value="" x="7.5" y="20"/>
 <element name="RN3" library="dp_devices" package="RN8P-4R-CRA06S" value="" x="22.545" y="28.26"/>
 <element name="X1" library="con-molex" package="22-23-2021" value="22-23-2021" x="16.31" y="40.11" rot="R180">
@@ -1994,7 +1994,7 @@ design rules under a new name.</description>
 <element name="JP9" library="connectors" package="1X03" value="PINHD-3" x="16.31" y="35.03"/>
 <element name="JP7" library="connectors" package="1X03" value="PINHD-3" x="8.69" y="27.41"/>
 <element name="JP8" library="connectors" package="1X03" value="PINHD-3" x="8.69" y="24.87"/>
-<element name="R2" library="rcl" package="R0603" value="10k" x="22.715" y="21.285" rot="R180"/>
+<element name="R2" library="rcl" package="R0603" value="330" x="22.715" y="21.285" rot="R180"/>
 <element name="R4" library="rcl" package="R0603" value="10k" x="21.5" y="42.5" rot="R180"/>
 <element name="R5" library="rcl" package="R0603" value="10k" x="21.5" y="41.1"/>
 <element name="ZD1" library="dp_devices" package="SOD-323F" value="" x="21.5" y="39.4" rot="R180"/>
